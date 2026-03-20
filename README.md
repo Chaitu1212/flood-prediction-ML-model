@@ -8,7 +8,7 @@ Floods are among the most destructive natural disasters, causing loss of life, p
 ## Dataset
 
 * **Source:** Kaggle – Flood Dataset (Excel format)
-* **Description:** Contains historical flood-related data such as rainfall, temperature, humidity, and cloud cover.
+* **Description:** Contains historical flood-related data such as Annual rainfall, temperature, humidity, and cloud cover.
 * **Format:** `.xlsx` (Excel)
 * **Usage:** Used for training and testing the flood prediction model.
 
@@ -16,15 +16,21 @@ Floods are among the most destructive natural disasters, causing loss of life, p
 
 * **Platform:** Google Colab
 * **Programming Language:** Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow / PyTorch (optional)
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
 * **Data Visualization:** Plotly, Folium
 * **Version Control:** Git & GitHub
 
-## Machine Learning Algorithm: Random Forest
+## Machine Learning Model
 
-* Used to predict flood risk based on historical data.
-* Handles complex relationships between features like rainfall, temperature, and cloud cover.
-* Provides high accuracy and robust predictions for flood-prone areas.
+Algorithm Used: Random Forest Classifier
+
+## Dataset includes:
+
+* Temperature
+* Humidity
+* Cloud Cover
+* Annual Rainfall
+* Seasonal Rainfall Distribution
 
 ## Features
 
