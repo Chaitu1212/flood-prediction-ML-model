@@ -22,10 +22,9 @@ Floods are among the most destructive natural disasters, causing loss of life, p
 
 ## Machine Learning Model
 
-Algorithm Used: Random Forest Classifier
+**Algorithm Used:** Random Forest Classifier
 
-## Dataset includes:
-
+**Dataset includes:**
 * Temperature
 * Humidity
 * Cloud Cover
