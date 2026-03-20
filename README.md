@@ -20,10 +20,16 @@ Floods are among the most destructive natural disasters, causing loss of life, p
 * **Data Visualization:** Plotly, Folium
 * **Version Control:** Git & GitHub
 
+## Machine Learning Algorithm: Random Forest
+
+* Used to predict flood risk based on historical data.
+* Handles complex relationships between features like rainfall, temperature, and soil cloud cover.
+* Provides high accuracy and robust predictions for flood-prone areas.
+
 ## Features
 
 * Predict flood risk based on historical data.
 * Visualize flood-prone areas and trends.
 * Generate alerts for high-risk regions.
 
-Do you want me to do that?
+
